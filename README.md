@@ -7,3 +7,6 @@ Privacy is a key issue that AI ethics tools can be used to regulate. Because AI 
 
 <h3>Charlie Cai's edited (lc4181)</h3>
 <p>Nice article!</p>
+
+## Chris Chen's edit (cxc213)
+**Awesome** article. You went really in depth and it was great!
